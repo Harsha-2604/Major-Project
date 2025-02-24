@@ -37,7 +37,6 @@ This project leverages **Flutter** for mobile development and **Firebase** for b
  ┃ ┣ 📜 tournament_screen.dart  (Tournament listing and details)
  ┃ ┣ 📜 chat_screen.dart  (Real-time community chat)
  ┣ 📜 README.md  (Project documentation)
- ┣ 📜 .gitignore  (GitHub ignore files)
 ```
 
 ---
@@ -70,7 +69,7 @@ This project leverages **Flutter** for mobile development and **Firebase** for b
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/YOUR-USERNAME/esports-arena-app.git
+git clone https://github.com/Harsha-2604/Major-Project.git
 cd esports-arena-app
 ```
 
